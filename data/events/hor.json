@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "name": "HÖR x Radicle x Livepeer",
+  "description": "HÖR x Radicle x Livepeer",
+  "start": "2022-05-25",
+  "end": "2022-05-25",
+  "website": "https://cryptocanal.org/eth-day/",
+  "poster": "/posters/eth-day.png",
+  "stream": {
+    "version": 1
+  },
+  "schedule": {
+    "sessions": []
+  },
+  "rooms": [
+    {
+      "id": "Main",
+      "streams": [
+        {
+          "id": "fb8e404c-13a2-417f-ba3b-3429b31a3344"
+        },
+        {
+          "id": "77e506b2-0480-480f-97d8-5162d90c97c2"
+        }
+      ]
+    }
+  ],
+  "recordings": []
+}
